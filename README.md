@@ -1,5 +1,8 @@
 ### Hi there 👋
+Here are some examples of other public project repositories where I played a significant role :
 
+- https://github.com/CodecoolGlobal/el-proyecte-grande-sprint-1-java-Kieferer
+- https://github.com/klavoraMate/budapestGo2-frontend
 <!--
 **RMNorbert/RMNorbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
