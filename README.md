@@ -16,4 +16,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Tech Stack
+
+    🌐   Java Python HTML5 CSS JavaScript Node.js TypeScript Vite React
+    ☁️   Linux NGINX Eureka Keycloack
+    🛢   PostgreSQL MySQL MongoDB SQLite
+    ⚙️   Git GitHub Markdown
+    🔧   Visual Studio Code PyCharm IDE
 -->
