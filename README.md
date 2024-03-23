@@ -4,6 +4,10 @@ Contributions:
 - https://github.com/Kieferer/BudapestGo2
 - https://github.com/klavoraMate/budapestGo2-frontend
 <!--
+https://github.com/WeblateOrg/weblate
+https://github.com/sofastack/sofa-rpc
+https://github.com/oracle/opengrok
+https://github.com/mapstruct/mapstruct
 **RMNorbert/RMNorbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
