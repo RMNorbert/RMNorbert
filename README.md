@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+Contributions:
+- https://github.com/Kieferer/BudapestGo2
+- https://github.com/klavoraMate/budapestGo2-frontend
 <!--
 **RMNorbert/RMNorbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
